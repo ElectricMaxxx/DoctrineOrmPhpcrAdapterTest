@@ -2,9 +2,11 @@
 
 namespace AppBundle\Tests\Controller;
 
+use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+
 use AppBundle\Document\Page;
 use AppBundle\Entity\Entity;
-use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+use AppBundle\Entity\Object;
 
 class DoctrineOrmPhpcrAdpterTest extends WebTestCase
 {
@@ -26,12 +28,23 @@ class DoctrineOrmPhpcrAdpterTest extends WebTestCase
         $this->createPageIfNotExists();
     }
 
-    public function testIndex()
+    public function testEntity()
     {
         $page = $this->findPage();
 
         $entity = new Entity();
         $entity->target = $page;
+
+        $this->em->persist($entity);
+        $this->em->flush();
+    }
+
+    public function testObject()
+    {
+        $page = $this->findPage();
+
+        $entity = new Object();
+        $entity->setDocument($page);
 
         $this->em->persist($entity);
         $this->em->flush();

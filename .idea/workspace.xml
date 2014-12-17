@@ -59,42 +59,96 @@
       <file leaf-file-name="Entity.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Entity.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.259259" vertical-offset="407" max-vertical-offset="1080">
-              <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+            <state vertical-scroll-proportion="7.259259" vertical-offset="448" max-vertical-offset="1674">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
-                <element signature="e#36#68#0#PHP" expanded="true" />
-                <element signature="e#133#222#0#PHP" expanded="true" />
-                <element signature="e#242#374#0#PHP" expanded="true" />
-                <element signature="e#396#467#0#PHP" expanded="true" />
-                <element signature="e#491#749#0#PHP" expanded="true" />
-                <element signature="e#775#805#0#PHP" expanded="true" />
+                <element signature="e#36#64#0#PHP" expanded="true" />
+                <element signature="e#269#401#0#PHP" expanded="true" />
+                <element signature="e#423#494#0#PHP" expanded="true" />
+                <element signature="e#518#681#0#PHP" expanded="true" />
+                <element signature="e#707#737#0#PHP" expanded="true" />
+                <element signature="e#809#846#0#PHP" expanded="true" />
+                <element signature="e#928#960#0#PHP" expanded="true" />
+                <element signature="e#1036#1068#0#PHP" expanded="true" />
+                <element signature="e#1148#1208#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Document/Page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.0" vertical-offset="234" max-vertical-offset="774">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.31858408" vertical-offset="0" max-vertical-offset="774">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding>
-                <element signature="e#92#188#0#PHP" expanded="true" />
                 <element signature="e#206#260#0#PHP" expanded="true" />
                 <element signature="e#282#338#0#PHP" expanded="true" />
                 <element signature="e#362#402#0#PHP" expanded="true" />
+                <element signature="e#436#470#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoctrineOrmPhpcrAdpterTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DoctrineOrmPhpcrAdpterTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Tests/DoctrineOrmPhpcrAdpterTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41769913" vertical-offset="394" max-vertical-offset="1152">
-              <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+            <state vertical-scroll-proportion="14.0" vertical-offset="432" max-vertical-offset="1386">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#46#74#0#PHP" expanded="true" />
+                <element signature="e#46#98#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/electricmaxxx/doctrine-orm-phpcr-adapter-bundle/Doctrine/ORM/Bundle/DoctrineOrmPhpcrAdapterBundle/Tests/Resources/Entity/Object.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="1746">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="e#358#465#0#PHP" expanded="true" />
+                <element signature="e#487#532#0#PHP" expanded="true" />
+                <element signature="e#556#954#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReferencedDocument.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/electricmaxxx/doctrine-orm-phpcr-adapter-bundle/Doctrine/ORM/Bundle/DoctrineOrmPhpcrAdapterBundle/Tests/Resources/Document/ReferencedDocument.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.222222" vertical-offset="48" max-vertical-offset="2484">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="e#151#249#0#PHP" expanded="true" />
+                <element signature="e#281#314#0#PHP" expanded="true" />
+                <element signature="e#338#368#0#PHP" expanded="true" />
+                <element signature="e#394#429#0#PHP" expanded="true" />
+                <element signature="e#460#491#0#PHP" expanded="true" />
+                <element signature="e#570#614#0#PHP" expanded="true" />
+                <element signature="e#648#685#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Object.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.703704" vertical-offset="872" max-vertical-offset="1872">
+              <caret line="65" column="31" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="31" />
+              <folding>
+                <element signature="e#36#68#0#PHP" expanded="true" />
+                <element signature="e#133#216#0#PHP" expanded="true" />
+                <element signature="e#236#343#0#PHP" expanded="true" />
+                <element signature="e#365#410#0#PHP" expanded="true" />
+                <element signature="e#434#769#0#PHP" expanded="true" />
+                <element signature="e#797#842#0#PHP" expanded="true" />
+                <element signature="e#873#917#0#PHP" expanded="true" />
+                <element signature="e#1149#1191#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,15 +170,16 @@
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/Entity.php" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Document/Page.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Object.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Tests/DoctrineOrmPhpcrAdpterTest.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Document/Page.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1745" />
-    <option name="y" value="1046" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
     <option name="width" value="1615" />
     <option name="height" value="1054" />
   </component>
@@ -739,6 +794,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/AppBundle/Entity" />
       <recent name="$PROJECT_DIR$/src/AppBundle/Tests" />
     </key>
   </component>
@@ -794,8 +850,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1745" y="1046" width="1615" height="1054" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -805,7 +861,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Copy/Paste" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -916,40 +972,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Document/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0" vertical-offset="234" max-vertical-offset="774">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="e#92#188#0#PHP" expanded="true" />
-            <element signature="e#206#260#0#PHP" expanded="true" />
-            <element signature="e#282#338#0#PHP" expanded="true" />
-            <element signature="e#362#402#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="846">
           <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
           <folding>
             <element signature="e#7#47#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Entity.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.259259" vertical-offset="407" max-vertical-offset="1080">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="e#36#68#0#PHP" expanded="true" />
-            <element signature="e#133#222#0#PHP" expanded="true" />
-            <element signature="e#242#374#0#PHP" expanded="true" />
-            <element signature="e#396#467#0#PHP" expanded="true" />
-            <element signature="e#491#749#0#PHP" expanded="true" />
-            <element signature="e#775#805#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -962,47 +990,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/electricmaxxx/doctrine-orm-phpcr-adapter-bundle/Doctrine/ORM/Bundle/DoctrineOrmPhpcrAdapterBundle/Tests/Resources/Entity/Object.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5" vertical-offset="1206" max-vertical-offset="1746">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#189#338#0#PHP" expanded="true" />
-            <element signature="e#358#465#0#PHP" expanded="true" />
-            <element signature="e#487#532#0#PHP" expanded="true" />
-            <element signature="e#556#954#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/electricmaxxx/doctrine-orm-phpcr-adapter-bundle/Doctrine/ORM/Bundle/DoctrineOrmPhpcrAdapterBundle/Tests/Resources/Document/ReferencedDocument.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8796461" vertical-offset="1566" max-vertical-offset="2376">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding>
-            <element signature="e#281#314#0#PHP" expanded="true" />
-            <element signature="e#394#429#0#PHP" expanded="true" />
-            <element signature="e#460#491#0#PHP" expanded="true" />
-            <element signature="e#570#614#0#PHP" expanded="true" />
-            <element signature="e#648#685#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://db-console:/c6a4d981/13981bf2-11ca-4bdf-a0d3-e390a35846f9/">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/c6a4d981/13981bf2-11ca-4bdf-a0d3-e390a35846f9/test..Entity">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1019,12 +1009,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Entity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.259259" vertical-offset="448" max-vertical-offset="1674">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#36#64#0#PHP" expanded="true" />
+            <element signature="e#269#401#0#PHP" expanded="true" />
+            <element signature="e#423#494#0#PHP" expanded="true" />
+            <element signature="e#518#681#0#PHP" expanded="true" />
+            <element signature="e#707#737#0#PHP" expanded="true" />
+            <element signature="e#809#846#0#PHP" expanded="true" />
+            <element signature="e#928#960#0#PHP" expanded="true" />
+            <element signature="e#1036#1068#0#PHP" expanded="true" />
+            <element signature="e#1148#1208#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/electricmaxxx/doctrine-orm-phpcr-adapter-bundle/Doctrine/ORM/Bundle/DoctrineOrmPhpcrAdapterBundle/Tests/Resources/Entity/Object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="1746">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#358#465#0#PHP" expanded="true" />
+            <element signature="e#487#532#0#PHP" expanded="true" />
+            <element signature="e#556#954#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.703704" vertical-offset="872" max-vertical-offset="1872">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="e#36#68#0#PHP" expanded="true" />
+            <element signature="e#133#216#0#PHP" expanded="true" />
+            <element signature="e#236#343#0#PHP" expanded="true" />
+            <element signature="e#365#410#0#PHP" expanded="true" />
+            <element signature="e#434#769#0#PHP" expanded="true" />
+            <element signature="e#797#842#0#PHP" expanded="true" />
+            <element signature="e#873#917#0#PHP" expanded="true" />
+            <element signature="e#1149#1191#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c6a4d981/13981bf2-11ca-4bdf-a0d3-e390a35846f9/test..Entity">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Tests/DoctrineOrmPhpcrAdpterTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41769913" vertical-offset="394" max-vertical-offset="1152">
-          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        <state vertical-scroll-proportion="14.0" vertical-offset="432" max-vertical-offset="1386">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#46#74#0#PHP" expanded="true" />
+            <element signature="e#46#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/electricmaxxx/doctrine-orm-phpcr-adapter-bundle/Doctrine/ORM/Bundle/DoctrineOrmPhpcrAdapterBundle/Tests/Resources/Document/ReferencedDocument.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.222222" vertical-offset="48" max-vertical-offset="2484">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#151#249#0#PHP" expanded="true" />
+            <element signature="e#281#314#0#PHP" expanded="true" />
+            <element signature="e#338#368#0#PHP" expanded="true" />
+            <element signature="e#394#429#0#PHP" expanded="true" />
+            <element signature="e#460#491#0#PHP" expanded="true" />
+            <element signature="e#570#614#0#PHP" expanded="true" />
+            <element signature="e#648#685#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Document/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31858408" vertical-offset="0" max-vertical-offset="774">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#206#260#0#PHP" expanded="true" />
+            <element signature="e#282#338#0#PHP" expanded="true" />
+            <element signature="e#362#402#0#PHP" expanded="true" />
+            <element signature="e#436#470#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
