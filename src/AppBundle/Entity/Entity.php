@@ -33,12 +33,12 @@ class Entity
     public $uuid;
 
     /**
-     * @var Page
+     * @var \AppBundle\Document\Page
      *
      * @ODMAdapter\ReferencePhpcr(
      *  referencedBy="uuid",
      *  inversedBy="uuid",
-     *  targetObject="Page"
+     *  targetObject="AppBundle\Document\Page"
      * )
      */
     public $target;

@@ -35,4 +35,9 @@ class Page
      * @PHPCR\Nodename
      */
     public $name;
+
+    /**
+     * @PHPCR\String
+     */
+    public $commonField;
 }

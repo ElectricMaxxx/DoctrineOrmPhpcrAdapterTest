@@ -47,11 +47,8 @@ assetic:
 doctrine:
     dbal:
         driver:   "%database_driver%"
-        host:     "%database_host%"
-        port:     "%database_port%"
         dbname:   "%database_name%"
-        user:     "%database_user%"
-        password: "%database_password%"
+        path:     "%database_path%"
         charset:  UTF8
         # if using pdo_sqlite as your database driver:
         #   1. add the path in parameters.yml
@@ -109,5 +106,5 @@ doctrine_orm_phpcr_adapter:
             AppBundle:
                 type: annotation
                 dir: Entity
-                prefix: \Entity
+                prefix: AppBundle\Entity
                 is_bundle: true

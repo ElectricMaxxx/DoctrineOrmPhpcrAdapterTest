@@ -42,7 +42,7 @@ class DoctrineOrmPhpcrAdpterTest extends WebTestCase
     public function testObject()
     {
         $page = $this->findPage();
-
+        $page->commonField = 'test-value';
         $entity = new Object();
         $entity->setDocument($page);
 
@@ -58,6 +58,7 @@ class DoctrineOrmPhpcrAdpterTest extends WebTestCase
             $page = new Page();
             $page->parentDocument = $parent;
             $page->name = 'page';
+            $page->commonField = 'some common';
 
             $this->dm->persist($page);
             $this->dm->flush();
